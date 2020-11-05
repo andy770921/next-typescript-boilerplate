@@ -1,3 +1,9 @@
+# Next.js + TypeScript boilerplate
+
+## Demo
+
+https://next-typescript-boilerplate.vercel.app/
+
 ## Installation
 
 1. `$ npm install`
@@ -13,6 +19,10 @@
 3. `$ npm run start`: starts a Next.js server in production mode
 
 4. `$ npm run lint`: manually checks files inside src folder
+
+## Deploy to cloud platform
+
+[AWS Amplify](https://aws.amazon.com/tw/amplify/), [Netlify](https://www.netlify.com/with/nextjs/), and [Vercel](https://vercel.com/) support the deployment of `Next.js`
 
 ## Notes:
 
