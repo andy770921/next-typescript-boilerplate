@@ -1,7 +1,7 @@
 import React, { FC } from "react";
 
 const IndexPage: FC = () => {
-  return <div>Hello World Next - Typescript - Express</div>;
+  return <div>Hello World Next + Typescript</div>;
 };
 
 export default IndexPage;
